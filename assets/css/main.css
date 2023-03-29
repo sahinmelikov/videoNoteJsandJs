@@ -1,0 +1,74 @@
+.bg-img{
+background-image: url(https://pbs.twimg.com/media/FsOrocNX0AIdU-j.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+margin-top: 0px;
+}
+.hoverr a:hover{
+color: black;
+}
+.zzz{
+    width: 25cm;
+    height: 33vh;
+    position: absolute;
+    z-index: 0;
+    
+    background-color:rgb(255, 255, 255);
+    transition: 0.5s ;}
+    .zzz a:hover{
+    background-color: #f2ce04;
+    border-radius: 0.25rem;}
+
+.h420{
+
+height: 420vh;
+}
+.padd-left{
+
+padding-left: 20px;}
+.h30{
+height: 30vh;}
+.h40{
+height: 40vh;
+}
+.h90{
+
+height: 90%;}
+.cart{
+width: 3cm;
+height: 180px;
+
+}
+.imgg{
+background-image: url(https://static.hdrezka.ac/templates/hdrezka/images/slava.jpg);
+background-size: 100%;
+}
+.img-ukrain{
+width: 480px;
+height: 150px;
+
+}
+.main-film{
+width: 60%;
+height: 300vh;
+overflow-y:scroll;
+
+}
+.main-film-name{
+    width: 40%;
+    height: 300vh;
+    background-color: rgb(255, 255, 255);
+    overflow-y:scroll;
+    }
+.cart-film{
+width: 170px;
+height: 220px;
+border: 1px solid #ccc;
+}
+.text-color{
+background-color:#858484;
+}
+.cart-carusel{
+    overflow-x:scroll;
+}
